@@ -49,7 +49,7 @@ cd To-Do-List
 
 3. Open `index.html` in your browser.
 
-Alternatively, use the **Live Server** extension in Visual Studio Code for the best experience.
+Alternatively, use the Live Server extension in Visual Studio Code for the best experience.
 
 Screenshots
 [To-Do List screenshot](screenshot.png)
