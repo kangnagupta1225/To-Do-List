@@ -114,7 +114,7 @@ color:#2575fc;
     margin-top:20px;
     padding:0;
 }
-.task{
+.task-item{
     display:flex;
     justify-content:space-between;
     align-items:center;
@@ -124,10 +124,10 @@ color:#2575fc;
     margin-bottom:12px;
     transition:.3s;
 }
-.task:hover{
+.task-item:hover{
     transform:translateY(-2px);
 }
-.task.completed span{
+.task-item.completed span{
     text-decoration:line-through;
     color:gray;
 }
@@ -152,23 +152,23 @@ color:#2575fc;
     font-size:18px;
     transition:.3s;
 }
-.edit-Btn{
+.edit-btn{
     color:#ff9800;
 }
-.delete-Btn{
+.delete-btn{
     color:#f44336;
 }
-.edit-Btn:hover{
+.edit-btn:hover{
 transform:scale(1.2);
 }
-.delete-Btn:hover{
+.delete-btn:hover{
 transform:scale(1.2);
 }
 .theme{
     margin-top:25px;
     text-align:center;
 }
-.themeBtn{
+#themeBtn{
     padding:12px 22px;
     border:none;
     border-radius:10px;
