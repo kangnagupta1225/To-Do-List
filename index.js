@@ -5,6 +5,7 @@ const taskCount = document.getElementById("taskCount");
 const searchInput = document.getElementById("searchInput");
 const filterButtons = document.getElementById("filterButtons");
 const clearCompleted = document.getElementById("clearCompleted");
+const themeBtn = document.getElementById("themeBtn");
 
 let tasks = JSON.parse(localStorage.getItem("tasks")) || [];
 let currentFilter = "all";
@@ -172,4 +173,20 @@ clearCompleted.addEventListener("click", () => {
 
 });
 
+themeBtn.addEventListener("click", () => {
+
+    document.body.classList.toggle("dark");
+
+    if (document.body.classList.contains("dark")) {
+        localStorage.setItem("theme", "dark");
+    } else {
+        localStorage.setItem("theme", "light");
+    }
+
+});
+const savedTheme = localStorage.getItem("theme");
+
+if (savedTheme === "dark") {
+    document.body.classList.add("dark");
+}
 renderTasks();
