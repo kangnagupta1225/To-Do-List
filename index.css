@@ -111,6 +111,8 @@ color:#2575fc;
 }
 #taskList{
     list-style:none;
+    margin-top:20px;
+    padding:0;
 }
 .task{
     display:flex;
