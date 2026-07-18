@@ -71,7 +71,7 @@ color:#2575fc;
     border-radius:10px;
     outline:none;
 }
-.filters{
+.filterButtons{
     display:flex;
     justify-content:center;
     gap:10px;
