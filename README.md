@@ -52,8 +52,10 @@ cd To-Do-List
 Alternatively, use the **Live Server** extension in Visual Studio Code for the best experience.
 
 Screenshots
+[To-Do List screenshot](screenshot.png)
+[To-Do List screenshot](screenshot1.png)
+[To-Do List screenshot](screenshot2.png)
 
-![](screenshot-1.png)
 Learning Outcomes
 
 This project helped strengthen my understanding of:
