@@ -53,7 +53,7 @@ Alternatively, use the **Live Server** extension in Visual Studio Code for the b
 
 Screenshots
 
-
+![](screenshot-1.png)
 Learning Outcomes
 
 This project helped strengthen my understanding of:
