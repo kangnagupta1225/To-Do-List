@@ -92,6 +92,6 @@ Author
 
 Kangna Gupta
 
-GitHub: https://github.com/kangnagupta1225
+GitHub: https://github.com/kangnasync
 
 If you found this project useful, consider giving it a star.
