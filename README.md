@@ -82,11 +82,11 @@ Future Improvements
 Live Demo
 
 GitHub Pages: 
-https://kangnagupta1225.github.io/To-Do-List/
+https://kangnasync.github.io/To-Do-List/
 
 Repository
 
-https://github.com/kangnagupta1225/To-Do-List
+https://github.com/kangnasync/To-Do-List
 
 Author
 
